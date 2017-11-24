@@ -1,14 +1,12 @@
 {
-    "name": "afarkas/wp-lazysizes",
+    "name": "wptailor/wp-lazysizes",
     "description": "Lazyload responsive images with automatic sizes calculation",
-    "require": {
-        "phpunit/phpunit": "^5.3"
-    },
     "license": "GPL-2.0+",
+     "type": "wordpress-plugin",
     "authors": [
-        {
-            "name": "Alexander Farkas",
-            "email": "info@corrupt-system.de"
-        }
-    ]
+    {
+      "name": "WPTailor",
+      "email": "info@wptailor.com"
+    }
+    ],
 }
